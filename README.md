@@ -1,5 +1,10 @@
 Experiment 02: Python Basics - Environment, Data Types, and Operators
-. Aim
+
+ 
+ 
+ 
+ 
+ Aim
 The goal of this experiment is to get familiar with the Python programming setup. I'll be looking at how to run code in different modes, how variables work, understanding basic data types, and using different operators to perform calculations.
 Objectives
 To explore the Python interface.
